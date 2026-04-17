@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper [RESP: Reference-guided Sequential Prompting for Visual Glitch Detection in Video Games](https://arxiv.org/abs/2604.11082).
 
-RESP is a reference-guided multi-frame framework for gameplay glitch detection with vision-language models. The code in this folder focuses on the main experiments used in the paper.
+RESP is a reference-guided multi-frame framework for gameplay glitch detection with vision-language models. The code focuses on the main experiments used in the paper.
 
 ## Dataset
 
