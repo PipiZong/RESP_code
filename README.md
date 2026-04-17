@@ -33,7 +33,7 @@ We provide a `requirements.txt` file for the Python environment. `ffmpeg` is als
 
 ### Examine the role of reference frames where reference frames are manually selected (RQ1)
 
-`Inference_godot_gpt.py` is the main script, replace GPT with other models should be straightforward. You can run it with:
+`Inference_godot_gpt.py` is the main script; replacing GPT with other models should be straightforward. You can run it with:
 
 ```bash
 python Inference_godot_gpt.py
